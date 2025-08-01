@@ -1,6 +1,6 @@
 # PowerBI-Dashboard
 
-This Power BI dashboard has been developed specifically for [Business Name], with the goal of transforming raw business data into meaningful, interactive insights. Tailored to meet the unique needs of the organization, the dashboard consolidates key performance metrics across departments into a single, user-friendly platform.
+This Power BI dashboard has been developed specifically for general purpose, with the goal of transforming raw business data into meaningful, interactive insights. Tailored to meet the unique needs of the organization, the dashboard consolidates key performance metrics across departments into a single, user-friendly platform.
 
 The dashboard covers critical areas such as Order records, Contrywise data, customer behavior, profit and cost data etc. By integrating data from various sources—such as Excel sheets, databases, CRM systems, and cloud services, it ensures a centralized and consistent view of the business. Key indicators are visualized using interactive charts and filters, allowing users to drill down into specific time periods, regions, or product lines.
 
