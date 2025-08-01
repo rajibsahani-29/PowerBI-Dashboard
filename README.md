@@ -16,7 +16,7 @@ Built using Microsoft Power BI, the dashboard combines robust analytics with ent
 - Focuses on individual and collective customer data — including sales, profit, customer details, region etc. 
 - Ideal for tracking operational effectiveness and identifying top clients.
 
-<img src="" alt="Image" width="500" height="520">
+<img src="https://github.com/rajibsahani-29/PowerBI-Dashboard/blob/main/PB1.png" alt="Image" width="500" height="520">
 
 --
 
