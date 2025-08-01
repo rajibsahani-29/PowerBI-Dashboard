@@ -24,7 +24,7 @@ Built using Microsoft Power BI, the dashboard combines robust analytics with ent
 - Shows overall business status with a strong emphasis on Order, Customers, Profit, Costs and region. 
 - Useful for monitoring market reach and profitability trends over time.
 
-<img src="https://github.com/rajibsahani-29/PowerBI-Dashboard/blob/main/PB2.png" alt="Image" width="500" height="520">
+<img src="https://github.com/rajibsahani-29/PowerBI-Dashboard/blob/main/PB4.png" alt="Image" width="500" height="520">
 
 --
 
@@ -38,7 +38,7 @@ Built using Microsoft Power BI, the dashboard combines robust analytics with ent
 ## 📆 Monthly Performance Dashboard
 - You can explore the business data for the months — offering deep insight into end-of-year performance, trends, and Profit/Loss.
 
-<img src="https://github.com/rajibsahani-29/PowerBI-Dashboard/blob/main/PB4.png" alt="Image" width="500" height="520">
+<img src="https://github.com/rajibsahani-29/PowerBI-Dashboard/blob/main/PB2.png" alt="Image" width="500" height="520">
 
 
 
