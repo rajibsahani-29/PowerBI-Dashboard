@@ -1,4 +1,5 @@
 # PowerBI-Dashboard
+
 This Power BI dashboard has been developed specifically for [Business Name], with the goal of transforming raw business data into meaningful, interactive insights. Tailored to meet the unique needs of the organization, the dashboard consolidates key performance metrics across departments into a single, user-friendly platform.
 
 The dashboard covers critical areas such as Order records, Contrywise data, customer behavior, profit and cost data etc. By integrating data from various sources—such as Excel sheets, databases, CRM systems, and cloud services, it ensures a centralized and consistent view of the business. Key indicators are visualized using interactive charts and filters, allowing users to drill down into specific time periods, regions, or product lines.
@@ -9,5 +10,37 @@ The dashboard is designed to be intuitive, even for non-technical users. With ro
 
 Built using Microsoft Power BI, the dashboard combines robust analytics with enterprise-level security and scalability. It is accessible from desktop, mobile, or web, enabling on-the-go insights and collaboration.
 
-In summary, this Power BI dashboard empowers [Business Name] with a strategic tool that not only streamlines reporting but also supports a culture of informed decision-making. It turns data into a competitive advantage—driving growth, efficiency, and better business outcomes.
+## 🧩 Dashboard Overviews
+
+## 🚘 Performance Dashboard
+- Focuses on individual and collective customer data — including sales, profit, customer details, region etc. 
+- Ideal for tracking operational effectiveness and identifying top clients.
+
+<img src="" alt="Image" width="500" height="520">
+
+--
+
+## 📈 Business Status Dashboard
+- Shows overall business status with a strong emphasis on Order, Customers, Profit, Costs and region. 
+- Useful for monitoring market reach and profitability trends over time.
+
+<img src="" alt="Image" width="500" height="520">
+
+--
+
+## 📊 Projection and Actual Performance Dashboard
+- Shows actual business data as visuals. 
+
+<img src="" alt="Image" width="500" height="520">
+
+--
+
+## 📆 Monthly Performance Dashboard
+- You can explore the business data for the months — offering deep insight into end-of-year performance, trends, and Profit/Loss.
+
+<img src="" alt="Image" width="500" height="520">
+
+
+
+In summary, this Power BI dashboard empowers any business with a strategic tool that not only streamlines reporting but also supports a culture of informed decision-making. It turns data into a competitive advantage—driving growth, efficiency, and better business outcomes.
 
