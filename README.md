@@ -12,7 +12,7 @@ Built using Microsoft Power BI, the dashboard combines robust analytics with ent
 
 ## 🧩 Dashboard Overviews
 
-## 🚘 Performance Dashboard
+## <span><i class="fa fa-tachometer" aria-hidden="true"></i></span> Performance Dashboard
 - Focuses on individual and collective customer data — including sales, profit, customer details, region etc. 
 - Ideal for tracking operational effectiveness and identifying top clients.
 
